@@ -13,7 +13,7 @@ owner:
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: 
-  github: lwiu
+  github: https://github.com/lwiu
   #linkedin: 
   #scholar: 
   #bilibili: 
@@ -38,16 +38,16 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Teams
-    url: /teams/
+  # - title: Publications
+  #   url: /publications/
+  # - title: Awards
+  #   url: /awards/
+  # - title: Teams
+  #   url: /teams/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  # - title: Blogs
+  #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
